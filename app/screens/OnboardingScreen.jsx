@@ -20,7 +20,7 @@ const OnboardingScreen = ({ navigation }) => {
         para facilitar o agendamento da coleta de entulhos e materiais diversos,
         promovendo mais praticidade e limpeza para toda a população.
       </Text>
-
+      {/* teste */}
       <View style={styles.buttonContainer}>
         <Button
           title="Fazer Login"
