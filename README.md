@@ -18,3 +18,4 @@ O projeto está sendo desenvolvido em **React Native**, com **Firebase** sendo u
    ```bash
    npm install
    ```
+# coletafacilapp
